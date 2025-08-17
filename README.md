@@ -1,4 +1,4 @@
-# Java Billing System
+[# Java Billing System
 
 ## Project Overview
 The **Java Billing System** is a desktop application developed in **Java Swing**. It allows users to generate bills for items, apply discounts, calculate GST, and view a detailed summary. This application is suitable for small shops and businesses for managing daily sales efficiently.
@@ -28,3 +28,4 @@ The **Java Billing System** is a desktop application developed in **Java Swing**
 1. **Clone the repository** (or download the code):
    ```bash
    git clone https://github.com/yourusername/java-billing-system.git
+](https://github.com/Dheeraj2808/java-billing/blob/main/README.md)
